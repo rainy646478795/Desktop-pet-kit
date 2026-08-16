@@ -12,6 +12,18 @@
 
 照片抠图风格，不做动漫/卡通化。喜欢真实宠物质感的人适合使用。
 
+## 预览
+
+| 待机 | 挥手 | 跳跃 |
+| --- | --- | --- |
+| ![待机](images/idle.gif) | ![挥手](images/waving.gif) | ![跳跃](images/jumping.gif) |
+
+| 奔跑 | 看向指针 | 语录气泡 |
+| --- | --- | --- |
+| ![奔跑](images/running.gif) | ![看向指针](images/look.gif) | ![语录气泡](images/preview-bubble-speech.png) |
+
+![Codex 授权气泡](images/preview-bubble-approval.png)
+
 ## 运行要求
 
 - 生成流程：需要一个能读写文件并执行脚本的 Agent，以及 macOS + Python/Pillow 环境
