@@ -2,10 +2,11 @@
 
 把真实宠物照片/视频做成桌面宠物，并配上 Cat Bubble 侧车的开源 Skill 合集。
 
-## 包含两个 Skill
+## 仓库内容
 
 - [pet-maker](pet-maker/README.md)：从素材到宠物图集再到侧车的完整生成流程，含省 Token 指南、拍照要求、拿来即用提示词
 - [cat-bubble-skill](cat-bubble-skill/README.md)：Cat Bubble 桌面侧车，透明置顶小猫、语录气泡、鼠标交互、可选 Codex 授权气泡
+- [cat-bubble](cat-bubble/README.md)：可直接运行的 Cat Bubble 应用，含 Swift 源码、宠物素材、语录和编译好的程序
 
 ## 风格
 
