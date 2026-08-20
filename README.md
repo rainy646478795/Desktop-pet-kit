@@ -8,6 +8,10 @@
 - [cat-bubble-skill](cat-bubble-skill/README.md)：Cat Bubble 桌面侧车，透明置顶小猫、语录气泡、鼠标交互、可选 Codex 授权气泡
 - [cat-bubble](cat-bubble/README.md)：可直接运行的 Cat Bubble 应用，含 Swift 源码、宠物素材、语录和编译好的程序
 
+## 一键复用
+
+想在另一台 Mac 用 Codex 完整复刻原子？直接复制 [PROMPT.md](PROMPT.md) 给 Codex，让它先复述一遍再动手。
+
 ## 风格
 
 照片抠图风格，不做动漫/卡通化。喜欢真实宠物质感的人适合使用。
